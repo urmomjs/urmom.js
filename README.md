@@ -1,5 +1,9 @@
 # urmom.js
 A JS library that detects if there is a "ur mom" or a "yo mama" joke with AI.
+## Install
+```
+npm i urmom.js
+```
 ## Usage
 This is an example usage:
 ```JS
