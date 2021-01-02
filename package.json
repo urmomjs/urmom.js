@@ -1,6 +1,6 @@
 {
     "name": "urmom.js",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A library that detects if there is a \"ur mom\" or a \"yo mama\" joke with AI",
     "main": "index.js",
     "repository": {
