@@ -3,7 +3,7 @@ A JS library that detects if there is a "ur mom" or a "yo mama" joke with AI.
 ## Usage
 This is an example usage:
 ```JS
-const UrMom = require("@urmomjs/urmom.js");
+const UrMom = require("urmom.js");
 
 var mom = new UrMom();
 
