@@ -1,0 +1,26 @@
+{
+    "name": "urmom.js",
+    "version": "1.0.0",
+    "description": "A library that detects if there is a \"ur mom\" or a \"yo mama\" joke with AI",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/urmomjs/urmom.js.git"
+    },
+    "keywords": [
+        "ur",
+        "mom",
+        "ai",
+        "detector"
+    ],
+    "author": "macedonga (Marco Ceccon)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/urmomjs/urmom.js/issues"
+    },
+    "homepage": "https://github.com/urmomjs/urmom.js#readme",
+    "dependencies": {
+        "brain.js": "^2.0.0-beta.2",
+        "natural": "^2.4.1"
+    }
+}
