@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/urmomjs/urmom.js/main/logo.png" width="600px">
+
 # urmom.js
 A JS library that detects if there is a "ur mom" or a "yo mama" joke with AI.
 ## Install
